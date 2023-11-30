@@ -11,3 +11,5 @@ Please ***do not*** follow this demo repo it is going to be taken down.
 <li>Commit with message</li>
 <li>Merge with main branch</li>
 </ol>
+
+<footer>Shared as MIT License and CC by Clinton Garwood, 2023</footer>
