@@ -9,7 +9,7 @@ Please ***do not*** follow this demo repo it is going to be taken down.
 <li>Set up a Repo</li>
 <li>Enter Codespace</li>
 <li>Commit with message</li>
-<li>Stage the Submission</li>
+<li>Stage the Submissions</li>
 <li>Merge with main branch</li>
 </ol>
 
